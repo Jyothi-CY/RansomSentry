@@ -344,20 +344,6 @@ Found a bug or have a feature request? Please create an issue with:
 - [Malwarebytes Labs](https://blog.malwarebytes.com/)
 - [The DFIR Report](https://thedfirreport.com/)
 
-## 🆕 Getting Started Guide
-
-### For Beginners
-1. Start with the basic analysis framework
-2. Practice on provided test files
-3. Understand entropy and encryption detection
-4. Move to decryption techniques
-
-### For Advanced Users
-1. Extend the detection patterns
-2. Add new decryption algorithms
-3. Integrate with other security tools
-4. Develop automated analysis pipelines
-
 ## 🔄 Changelog
 
 ### Version 1.0.0
@@ -366,28 +352,3 @@ Found a bug or have a feature request? Please create an issue with:
 - WannaCry simulation and analysis
 - Comprehensive reporting system
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/ransomware-analysis-toolkit&type=Date)](https://star-history.com/#your-username/ransomware-analysis-toolkit&Date)
-
----
-
-## 📞 Support
-
-For questions and support:
-- Create an issue on GitHub
-- Check the documentation
-- Review existing examples
-
-## 🙏 Acknowledgments
-
-- Thanks to the cybersecurity community for continuous research
-- Contributors and testers who helped improve this toolkit
-- Open-source projects that inspired various components
-
----
-
-**Remember**: The best defense against ransomware is prevention through robust security practices, regular backups, and user education.
-
----
-*Last updated: December 2023*
